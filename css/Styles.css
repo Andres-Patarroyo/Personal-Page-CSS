@@ -26,7 +26,11 @@ Elements can contain multiple classes, but only one ID
 
 */
 /* CLASS SELECTORS */
+/*  mouse hover 
 .Andres-Profile-Pic:hover {
+  border-radius: 20%;
+}*/
+.Andres-Profile-Pic {
   border-radius: 20%;
 }
 #name {
