@@ -9,12 +9,17 @@ hr {
   height: 4px;
   width: 12%;
 }
+/* 
 img {
   border-radius: 20%;
   width: auto;
-}
+} */
 h1,
 h2,
 h3 {
   color: #301e67;
+}
+
+.Andres-Profile-Pic {
+  border-radius: 20%;
 }
