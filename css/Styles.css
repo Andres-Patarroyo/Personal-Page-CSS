@@ -17,9 +17,18 @@ img {
 h1,
 h2,
 h3 {
-  color: #301e67;
+  color: #27496d;
 }
+/* IDs ARE PRIORITIZED OVER CLASSES/TAGS, Inline>Internal>External, Good practice to put all css sylings into one external folder/file
+IDs are unique, Classes can be generalized 
+Elements can contain multiple classes, but only one ID
 
-.Andres-Profile-Pic {
+
+*/
+/* CLASS SELECTORS */
+.Andres-Profile-Pic:hover {
   border-radius: 20%;
+}
+#name {
+  color: #142850;
 }
